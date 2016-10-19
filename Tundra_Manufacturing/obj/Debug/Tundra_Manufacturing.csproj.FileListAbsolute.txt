@@ -1,0 +1,13 @@
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\Tundra_Manufacturing.exe.config
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\Tundra_Manufacturing.exe
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\Tundra_Manufacturing.pdb
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\LinqToExcel.dll
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\log4net.dll
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\Remotion.dll
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\Remotion.Interfaces.dll
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\LinqToExcel.xml
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\bin\Debug\log4net.xml
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\obj\Debug\Tundra_Manufacturing.csprojResolveAssemblyReference.cache
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\obj\Debug\Tundra_Manufacturing.exe
+C:\Users\mlukatchik\Desktop\Code\Tundra_Manufacturing\Tundra_Manufacturing\obj\Debug\Tundra_Manufacturing.pdb
